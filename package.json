@@ -129,7 +129,7 @@
     "esbuild": "0.25.6",
     "esbuild-plugins-node-modules-polyfill": "1.7.1",
     "esbuild-visualizer": "0.7.0",
-    "eslint": "9.33.0",
+    "eslint": "10.0.0",
     "eslint-config-prettier": "10.1.8",
     "eslint-formatter-friendly": "7.0.0",
     "eslint-plugin-compat": "6.0.2",
